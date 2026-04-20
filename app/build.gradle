@@ -5,6 +5,8 @@ plugins {
 android {
     compileSdk 34
 
+    namespace "com.ehishab.poslead"
+
     defaultConfig {
         applicationId "com.ehishab.poslead"
         minSdk 21
